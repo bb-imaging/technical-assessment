@@ -12,13 +12,13 @@ While viewing a particular frame, a sonographer may choose to measure an anatomi
 
 ```json
     {
-        "annotationTemplate": "fetal-humerus"
-        "toolType": "ruler"
+        "annotationTemplate": "fetal-humerus",
+        "toolType": "ruler",
         "coordinates": {
             "x1": 33,
             "y1": 230,
             "x2": 371,
-            "y2": 528,
+            "y2": 528
         }
     }
 ```
@@ -44,14 +44,16 @@ Create a Serverless project with the following resources:
 
 You are welcome to use Postman (or cURL), or create a front-end for it as well. 
 
-### Requirements for `putAnnotation`
+There are several sample .jpegs in the `/sample-images` directory in this repo, which should be stored in your S3 bucket.
+
+#### Requirements for `putAnnotation`
 
 - Given an annotation object (like the one above) create a record in Dynamo that is correctly associated to the given frame, and study
 
-### Requirements for `getFrame`
+#### Requirements for `getFrame`
 
 - Returns the frame, which should contain the image pointer and the annotation data
 
-### Requirements for `getStudy`
+#### Requirements for `getStudy`
 
 - Returns all frames + annotations for the particular study 
