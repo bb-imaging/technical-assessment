@@ -21,6 +21,7 @@ A succesful project will contain a working prototype that completes the followin
 Feel free to use a different annotation library, but consider using [cornerstone js](https://github.com/cornerstonejs/cornerstone)
 
 Bonus points for:
+- Typescript
 - Angular app for client side
 - S3 Bucket for Image Storage
 - DynamoDB table(s) for persistence

@@ -33,6 +33,8 @@ Data Model: Using a Document Database, demonstrate how you would stucture the da
 
 Services: Describe how the different (AWS) services would interact. 
 
+Please save your diagram as a png/pdf and store in the repo.
+
 ### 2) a working prototype. 
 
 Create a Serverless project with the following resources:
@@ -44,6 +46,10 @@ Create a Serverless project with the following resources:
 You are welcome to use Postman (or cURL), or create a front-end for it as well. 
 
 There are several sample .jpegs in the `/sample-images` directory in this repo, which should be stored in your S3 bucket.
+
+Bonus points for:
+- Typescript
+- Tests
 
 #### Requirements for `putAnnotation`
 
