@@ -23,8 +23,15 @@ We operate in a HIPAA compliant SDLC environment. Telescan is an FDA regulated C
 
 ## Technical Assessment Process
 
-If you're at this page, you've likely already engaged with our amazing People & Culture team. If not, and you are interested in a position with our team, please reach out to ****@bbimaging.net
+If you're at this page, you've likely already engaged with our amazing People & Culture team. If not, and you are interested in a position with our team, please reach out to our Lead Recruiter, Heather Keen at keen@bbimaging.net.
 
-For all position, you will have 3 days, and be compensated $300 for the submitting the project. After three days, you will have 30 minutes to present your project to the team.
+You will have 72 hours to: 
 
-Your project should be contained a repo. Once complete, please submit you project to ***@bbimaging.net. You must submit your code (and any supporting materials) two hours before your final presentation.
+1) submit your project. Your project should be contained in a public github repo. Once complete, please send the link to alison@bbimaging.net. 
+
+
+2) schedule 30 a minute project review the project with the team. Please [use this link](https://calendly.com/alisoncamp/30min) to schedule. In order to give our team time to review, please schedule your review for the following day (or as soon as appropriate) after your project submission.
+
+You will be compensated $300 for the submitting the project. 
+
+Questions? Please feel free reach out to to alison@bbimaging.net! 

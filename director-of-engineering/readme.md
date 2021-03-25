@@ -23,7 +23,6 @@ While viewing a particular frame, a sonographer may choose to measure an anatomi
     }
 ```
 
-
 ## Goals and Requirements
 
 A succesful project will contain two parts: 
