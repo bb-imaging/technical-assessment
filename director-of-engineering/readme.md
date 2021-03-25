@@ -39,7 +39,7 @@ Create a Serverless project with the following resources:
 
 - S3 Bucket for Image Storage
 - DynamoDB table(s)
-- Three Endpoints: `putAnnotation`, `getFrame`, and `getStudy`
+- Three Lambda Endpoints: `putAnnotation`, `getFrame`, and `getStudy`
 
 You are welcome to use Postman (or cURL), or create a front-end for it as well. 
 
