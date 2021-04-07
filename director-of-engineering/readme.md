@@ -6,7 +6,7 @@ If you haven't already done so, please make sure to review the "Technical Assess
 
 At our core, our sonographers are analyzing and annotating images that belong to a particular "patient", and were captured during a particular <strong>"study".</strong>
 
-These images originate as DICOM (.dcm) files, but you can just assume that a study has many .jpeg images (we call them <strong>"frames"</strong>). <strong>Assume that these images are 800x600 .jpegs stored in an S3 bucket.</strong> For example: `s3://processed-images/study1234/fetal-image-1.jpg`
+These images originate as DICOM (.dcm) files, but you can just assume that a study has many .jpeg images (we call them <strong>"frames"</strong>). <strong>Assume that these images are 800x600 .jpegs stored in an S3 bucket.</strong> For example: `s3://processed-images/study1234/fetal-image-1.jpg`.  See the sample-images folder.
 
 While viewing a particular frame, a sonographer may choose to measure an anatomical structure (e.g. "femur length: 3 cm"), which we call an <strong>"annotation"</strong>. <strong>The annotations are then associated to a frame, and saved in a document db.</strong> An annotation might look like:
 
@@ -42,14 +42,15 @@ Create a Serverless project with the following resources:
 - S3 Bucket for Image Storage
 - DynamoDB table(s)
 - Three Lambda Endpoints: `putAnnotation`, `getFrame`, and `getStudy`
-
-You are welcome to use Postman (or cURL), or create a front-end for it as well. 
+- Front-end which displays the frame, study metadata and annotations.  Allows for updating an annotation. 
 
 There are several sample .jpegs in the `/sample-images` directory in this repo, which should be stored in your S3 bucket.
 
 Bonus points for:
 - Typescript
 - Tests
+- Cloudformation Resources
+- Serverless deploy
 
 #### Requirements for `putAnnotation`
 
