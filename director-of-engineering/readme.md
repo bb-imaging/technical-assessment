@@ -66,5 +66,5 @@ Bonus points for:
 - Returns study metadata, X number frames and related annotations for the particular study 
 
 #### Requirements for `Front-end`
-Displays the frame (jpeg), study metadata and frame annotations.  Allows for updating an annotation. Allows for selecting a frame.
+Displays the frame (jpeg), study metadata and frame annotations.  Allows for updating an annotation. Allows for selecting a frame for display.
 (our team is using Angular, your choice on framework or none)
