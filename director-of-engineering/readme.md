@@ -42,7 +42,7 @@ Create a Serverless project with the following resources:
 - S3 Bucket for Image Storage
 - DynamoDB table(s)
 - Three Lambda Endpoints: `putAnnotation`, `getFrame`, and `getStudy`
-- Front-end which displays the frame, study metadata and annotations.  Allows for updating an annotation. 
+- Front-end which displays the frame, study metadata and annotations.  Allows for updating an annotation.  (our team is using Angular, your choice on framework or none)
 
 There are several sample .jpegs in the `/sample-images` directory in this repo, which should be stored in your S3 bucket.
 
