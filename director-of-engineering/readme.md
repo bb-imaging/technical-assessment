@@ -51,6 +51,7 @@ Bonus points for:
 - Tests
 - Cloudformation Resources
 - Serverless deploy
+- Client-side framework
 
 #### Requirements for `putAnnotation`
 
