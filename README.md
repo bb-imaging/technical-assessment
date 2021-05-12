@@ -23,7 +23,7 @@ We operate in a HIPAA compliant SDLC environment. Telescan is an FDA regulated C
 
 ## Technical Assessment Process
 
-If you're at this page, you've likely already engaged with our amazing People & Culture team. If not, and you are interested in a position with our team, please reach out to our Lead Recruiter, Heather Keen at keen@bbimaging.net.
+If you're at this page, you've likely already engaged with our amazing People & Culture team. If not, and you are interested in a position with our team, please reach out to Alison Dilly at alison@bbimaging.net.
 
 You will have 72 hours to: 
 
