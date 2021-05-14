@@ -30,7 +30,7 @@ You will have 72 hours to:
 1) submit your project. Your project should be contained in a public github repo. Once complete, please send the link to alison@bbimaging.net. 
 
 
-2) schedule 30 a minute project review the project with the team. Please [use this link](https://calendly.com/alisoncamp/30min) to schedule. In order to give our team time to review, please schedule your review for the following day (or as soon as appropriate) after your project submission.
+2) schedule 30 a minute project review the project with the team. Please [use this link](https://calendly.com/alisoncamp/60min) to schedule. In order to give our team time to review, please schedule your review for the following day (or as soon as appropriate) after your project submission.
 
 You will be compensated $300 for the submitting the project. 
 

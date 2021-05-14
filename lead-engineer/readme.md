@@ -1,4 +1,4 @@
-## Director of Engineering Technical Assessment
+## Lead Engineer Technical Assessment
 
 If you haven't already done so, please make sure to review the "Technical Assessment Process" on the root readme.
 
